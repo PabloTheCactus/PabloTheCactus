@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PabloTheCactus
 - 👀 I’m interested in solving LeetCode problems 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on developing some fun projects)
 - 📫 How to reach me through github
 - 😄 Pronouns: Washing Machine
