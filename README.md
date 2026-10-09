@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PabloTheCactus
-- 👀 I’m interested in solving LeetCode problems 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on developing some fun projects)
+- 👀 I’m interested in Embedded programming 
+- 🌱 I’m currently learning electronics
 - 📫 How to reach me through github
 - 😄 Pronouns: Washing Machine
 - ⚡ Fun fact: I love working with people, and I actually touch grass(once in a while...)
